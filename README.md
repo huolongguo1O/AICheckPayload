@@ -25,6 +25,7 @@ step：10896
 ```
 
 下图是loss的情况：
+
 ![image](https://user-images.githubusercontent.com/121071167/235354071-f1dea154-7ef2-435b-87f1-d84d767f67a8.png)
 
 ## 4.效果
@@ -40,6 +41,12 @@ Tiny[3]版不但没用降低准确率，反而比原版更高[1]（多对了一�
 测试发现脸滚键盘也会被报insecure，另外只要有大于号或小于号就会报不安全，有待提高。
 
 ## 6.地址
+
+https://huggingface.co/huolongguo10/check_sec_tiny
+
+https://huggingface.co/huolongguo10/check_sec
+
+https://huggingface.co/spaces/huolongguo10/huolongguo10-check_sec
 
 [1]: https://huggingface.co/spaces/huolongguo10/evaluator_cs 
 [2]: https://www.kaggle.com/
