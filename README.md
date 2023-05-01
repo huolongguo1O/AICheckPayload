@@ -30,7 +30,9 @@ step：10896
 
 ## 4.效果
 
-我们用了一个[全新的数据集](https://huggingface.co/datasets/huolongguo10/check_sec_eval)来检验效果。结果可以在[这里](https://huggingface.co/spaces/huolongguo10/evaluator_cs)查看
+我们用了一个[全新的数据集](https://huggingface.co/datasets/huolongguo10/check_sec_eval)来检验效果。结果：
+
+![7b4c018d147a2d94dfc8f55c849c39b](https://user-images.githubusercontent.com/121071167/235436288-88499ddc-cada-4a6f-b302-7d0930d9f07e.png)
 
 整体来说，95%的准确率不算很高，但这只是一个初步的训练，微调之后效果可能会更佳。
 
